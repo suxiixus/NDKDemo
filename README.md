@@ -1,4 +1,3 @@
-![jnindk.png](http://upload-images.jianshu.io/upload_images/944365-60fa6d70408d1388.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 1.JNI介绍
 ### 1.1.简介
 * 定义：Java Native Interface，即Java本地接口
